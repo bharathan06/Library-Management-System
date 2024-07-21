@@ -1,0 +1,10 @@
+django-ninja==1.2.2
+python==3.10.14
+django==5.0.7
+openai==0.27.0
+langchain==0.1.9
+langchain-openai==0.0.7
+langchain-pinecone==0.0.3
+pinecone-client[grpc]==3.0.0
+python-dotenv==1.0.0
+pydantic-2.8.2

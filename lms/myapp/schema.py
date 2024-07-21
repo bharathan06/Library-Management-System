@@ -2,7 +2,8 @@ from ninja import Schema
 from datetime import date 
 
 #Request schema for Books.
-class request_book(Schema):
+class BookSchema(Schema):
+    id : int 
     title : str
     author : str
     isbn : int 
@@ -10,7 +11,7 @@ class request_book(Schema):
     published_date : date 
 
 #Response schema for books.
-class create_book_schema(Schema):
+class CreateBookSchema(Schema):
     title : str
     author : str
     isbn : int 
