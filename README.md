@@ -16,5 +16,6 @@ This application integrates LangChain LLM and Pinecone vectorstore to enhance it
 2. Langchain LLMs
 3. Pinecone vectorstore
 
-
+---
+Note- This project is still under development
 
