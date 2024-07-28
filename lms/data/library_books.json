@@ -1,0 +1,72 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "categories": "Classic",
+        "published_date": "1925-04-10"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780061120084",
+        "categories": "Fiction",
+        "published_date": "1960-07-11"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "categories": "Dystopian",
+        "published_date": "1949-06-08"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "9781503290563",
+        "categories": "Romance",
+        "published_date": "1813-01-28"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "9780316769488",
+        "categories": "Fiction",
+        "published_date": "1951-07-16"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780547928227",
+        "categories": "Fantasy",
+        "published_date": "1937-09-21"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "isbn": "9781451673319",
+        "categories": "Science Fiction",
+        "published_date": "1953-10-19"
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "isbn": "9781503280786",
+        "categories": "Adventure",
+        "published_date": "1851-11-14"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "isbn": "9781420954307",
+        "categories": "Historical",
+        "published_date": "1869-01-01"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "9780062315007",
+        "categories": "Fiction",
+        "published_date": "1988-04-15"
+    }
+]

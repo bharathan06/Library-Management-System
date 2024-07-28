@@ -2,7 +2,9 @@ from ninja import NinjaAPI
 from .models import Book
 from .schema import BookSchema, CreateBookSchema
 from django.shortcuts import get_object_or_404
-from pinecone_setup import search
+from ai.pinecone_setup import search
+from ai.langchain_setup import vectorstore
+
 
 api = NinjaAPI()
 
@@ -47,9 +49,6 @@ def delete_book(request, book_id : int):
     book= get_object_or_404(Book, id=book_id)
     book.delete()
     return {"Success" : True} 
-
-
-from langchain_setup import vectorstore
 
 
 

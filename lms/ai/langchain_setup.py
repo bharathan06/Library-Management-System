@@ -2,7 +2,7 @@
 from langchain_openai import OpenAIEmbeddings
 from langchain_pinecone import Pinecone
 import os
-from pinecone_setup import index_name
+from ai.pinecone_setup import index_name
 
 OPENAI_API_KEY = os.getenv('sk-proj-PuHM29oRWPGtNyZSAzNuT3BlbkFJhMDw0liMVWI5UOaLhGEd')
 
